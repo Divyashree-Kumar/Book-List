@@ -1,0 +1,75 @@
+       @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body{
+    background-color: black;
+    text-align: left;
+    color: white;
+
+}
+
+
+.box1{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    color: #183b56;
+    height: 200px;
+    border-radius: 10px;
+    font-family: bree serif;
+
+}
+
+.B1{
+    background-color: blue;
+    padding: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.box2{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    color: white;
+    height: 200px;
+    border-radius: 10px;
+    font-family: bree serif;
+    padding: 20px;
+
+}
+.B2{
+    background-color: blue;
+    padding: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+}
+.box3{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    color: white;
+    height: 200px;
+    border-radius: 10px;
+    font-family: bree serif;
+    padding: 20px;
+
+}
+.B3{
+    background-color: blue;
+    padding: 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+}
